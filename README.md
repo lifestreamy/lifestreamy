@@ -21,3 +21,6 @@
 [![GitHub stats-Light](https://github-readme-stats-one-ashen-99.vercel.app/api?username=lifestreamy&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-light-mode-only)
 
 [![powered-by-vercel](https://github.com/lifestreamy/lifestreamy/assets/44506462/04d2a284-61f5-412d-9980-8c50e3045a1f)](https://vercel.com)
+
+
+[Credit to the Github Readme Stats creator](https://github.com/anuraghazra/github-readme-stats)
