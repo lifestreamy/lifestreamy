@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Tim (Timofey/Timothy) 
 
-### My main skills:
+## My main skills are:
 
 ![Kotlin](https://img.shields.io/badge/-kotlin-lightcyan?style=for-the-badge&logo=kotlin&logoSize=auto) 
 ![Java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=openjdk&logoSize=auto)
@@ -12,14 +12,20 @@
 ![Git](https://img.shields.io/badge/-git-lightgray?style=for-the-badge&logo=git&logoSize=auto)
 ![Docker](https://img.shields.io/badge/-docker-white?style=for-the-badge&logo=docker&logoSize=auto)
 
-### [English C2 - Proficient](https://cert.efset.org/vYFNZ2)
+#### [English C2 - Proficient](https://cert.efset.org/vYFNZ2)
+---
+### Most used langs 
+[![Top Langs-Dark](https://github-readme-stats-one-ashen-99.vercel.app/api/top-langs/?username=lifestreamy&hide=JavaScript,CSS,HTML,Dockerfile,Shell&langs_count=10&layout=compact&theme=gotham#gh-dark-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-one-ashen-99.vercel.app/api/top-langs/?username=lifestreamy&hide=JavaScript,CSS,HTML,Dockerfile,Shell&langs_count=10&layout=compact&theme=graywhite#gh-light-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-light-mode-only)
 
-## My stats:
-[![Top Langs-Dark](https://github-readme-stats-one-ashen-99.vercel.app/api/top-langs/?username=lifestreamy&hide=JavaScript,CSS,HTML&theme=gotham#gh-dark-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-one-ashen-99.vercel.app/api/top-langs/?username=lifestreamy&hide=JavaScript,CSS,HTML&theme=graywhite#gh-light-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-light-mode-only)
+(not accounting for forks)
+
+---
+## Some fancy-looking stats:
 [![GitHub stats-Dark](https://github-readme-stats-one-ashen-99.vercel.app/api?username=lifestreamy&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats-one-ashen-99.vercel.app/api?username=lifestreamy&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/lifestreamy/github-readme-stats#gh-light-mode-only)
 
+---
 [![powered-by-vercel](https://github.com/lifestreamy/lifestreamy/assets/44506462/04d2a284-61f5-412d-9980-8c50e3045a1f)](https://vercel.com)
 
 
